@@ -7,7 +7,7 @@ The only goal of this repo is to add my findings on technologies, tools and lang
 - [Tailwind](https://tailwindcss.com/)
 - [React Native](https://reactnative.dev/) - 3rd party integrations and Architectures
 - [StandardJS](https://standardjs.com/)
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Github Actions](https://docs.github.com/en/actions)
-- [Kotlin](https://kotlinlang.org/)
 - [AWS](https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/)
+- [Astro](https://astro.build/)
+- [ELK](https://www.elastic.co/what-is/elk-stack)
